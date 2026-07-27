@@ -1,1 +1,4 @@
 # Git-demo
+<hr>
+<i> THIS FILE CONTAINS INFORMATION OF GIT AND GITHUB</i>
+<b>Author-> NIKHIL SINGH</b>
